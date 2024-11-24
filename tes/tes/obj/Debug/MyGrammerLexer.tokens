@@ -1,0 +1,14 @@
+STARTPROGRAM=1
+ENDPROGRAM=2
+PRINTT=3
+LIFT=4
+RIGHT=5
+SEMI=6
+NUMBER=7
+WS=8
+'StartP'=1
+'EndP'=2
+'print'=3
+'('=4
+')'=5
+';'=6

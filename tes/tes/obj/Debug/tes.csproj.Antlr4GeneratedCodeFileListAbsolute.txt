@@ -1,0 +1,6 @@
+E:\study\Level 4\First semester\compiler\LABS\compiler_course_topics-main\topecs\New folder\tes\tes\obj\Debug\MyGrammarLexer.cs
+E:\study\Level 4\First semester\compiler\LABS\compiler_course_topics-main\topecs\New folder\tes\tes\obj\Debug\MyGrammarParser.cs
+E:\study\Level 4\First semester\compiler\LABS\compiler_course_topics-main\topecs\New folder\tes\tes\obj\Debug\MyGrammarListener.cs
+E:\study\Level 4\First semester\compiler\LABS\compiler_course_topics-main\topecs\New folder\tes\tes\obj\Debug\MyGrammarBaseListener.cs
+E:\study\Level 4\First semester\compiler\LABS\compiler_course_topics-main\topecs\New folder\tes\tes\obj\Debug\MyGrammarVisitor.cs
+E:\study\Level 4\First semester\compiler\LABS\compiler_course_topics-main\topecs\New folder\tes\tes\obj\Debug\MyGrammarBaseVisitor.cs
